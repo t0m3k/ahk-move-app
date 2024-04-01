@@ -12,6 +12,7 @@ numpad1::VD.goToDesktopNum(1)
 numpad2::VD.goToDesktopNum(2)
 numpad3::VD.goToDesktopNum(3)
 ```
+if you don't want VD switching animation, set `VD.animation_on:=false`
 
 * <kbd>Win + x</kbd> move VSCode to your current Desktop and WinActivate
 * <kbd>Win + e</kbd> move "explorer replacement program" to your current Desktop and WinActivate
